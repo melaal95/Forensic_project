@@ -12,6 +12,7 @@ public class Forensic_project {
    //comment test
        System.out.println("laaaaa2");
         System.out.println("toka");
+           System.out.println("toka maged");
      
     }
     
