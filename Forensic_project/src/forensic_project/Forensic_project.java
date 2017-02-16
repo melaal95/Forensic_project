@@ -1,4 +1,3 @@
-
 package forensic_project;
 
 /**
@@ -6,12 +5,11 @@ package forensic_project;
  * @author Ayaa
  */
 public class Forensic_project {
-  //main Function
-   
+    //main Function
+
     public static void main(String[] args) {
- 
-     
-     
+
+      
     }
-    
+
 }
