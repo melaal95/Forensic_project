@@ -17,10 +17,10 @@ public class HistoryContent {
     public String URL;
     //title
     public String Title;
+    //visitCount
+    public int VisitCount;
     //visited time and date
     public DateTimeSyntax VisitedDate;
-    //type of url
-    public String Type;
     
     //set URL
     public void SetURL(String URL)
@@ -42,15 +42,15 @@ public class HistoryContent {
         
         return this.Title;
     }
-     //set Url type
-      public void SetType(String Type)
+     //set VisitCount
+      public void SetVisitCount(int  VisitCount)
     {
-        this.Type=Type;
+        this.VisitCount=VisitCount;
     }
-      //get url type
-       public String GetType(){
+      //get visit count
+       public int GetVisitCount(){
         
-        return this.Type;
+        return this.VisitCount;
     }
        //set visit date
        public void SetVisitedDate(DateTimeSyntax VisitedDate)
