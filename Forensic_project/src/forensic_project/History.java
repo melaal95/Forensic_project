@@ -18,9 +18,15 @@ public class History {
        HistoryContent urls_list=new HistoryContent();
        return urls_list;
    }
+   
    HistoryContent Analyze_Url()
    {
        HistoryContent analyzed_listt=new HistoryContent();
        return analyzed_listt;
+   }
+   
+   int Get_Addict_Hours()
+   {
+       return 0;
    }
 }

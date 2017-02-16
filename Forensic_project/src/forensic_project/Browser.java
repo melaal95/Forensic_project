@@ -26,6 +26,10 @@ public class Browser {
         
         return tokens_list;
     }
-    
+    HistoryContent Parsing_time()
+    {
+        HistoryContent parsed_time_list=new HistoryContent();
+        return parsed_time_list;
+    }
     
 }

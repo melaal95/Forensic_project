@@ -11,5 +11,8 @@ package forensic_project;
  * @author Ayaa
  */
 public class Bookmarks {
-
+    int Get_Bookmarks(int days_period)
+    {
+        return 0;
+    }
 }
